@@ -1,1 +1,10 @@
-node_modules/\ndist/\n.venv/\n__pycache__/\n.pytest_cache/\n.env\n*.py[cod]\n
+node_modules/
+dist/
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.py[cod]
+*.pyo
+.DS_Store
+*.log
